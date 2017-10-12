@@ -1,4 +1,4 @@
 Integrantes do grupo:
-Alessandro
-Osvaldo
-Zacarias
+Alessandro,
+Osvaldo,
+Zacarias.
